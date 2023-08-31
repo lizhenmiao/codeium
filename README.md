@@ -9,7 +9,9 @@ C:\Users\你的电脑用户名\.vscode\extensions\codeium.codeium-1.2.76\dist\e8
 ```
 
 **`e829be46431d9d5c061068a9b704357be77f6617` 为随机生成的文件夹名称**
+
 **打开文件夹将 `language_server_windows_x64.exe` 放入之后重启 vscode 即可**
+
 
 ![vscode language_server 目录存放地址](https://github.com/lizhenmiao/codeium/assets/48425294/fabc1664-5df3-43f2-9a7b-cd8f94d9e3a3)
 
